@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript , MERN**
 
-- 📫 How to reach me **shahrozabbas2018@gmail.com**
+- 📫 How to reach me **shahroz.abbas2018@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
