@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🎓 Studying BS Computer Science at **Algoma University**
+- 🎓 Studying BS Software Engineering at **Air University**
 
 - 🌱 I’m currently learning **React Native**
 
