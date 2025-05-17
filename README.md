@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🎓 Studying BS Software Engineering at **Air University**
+- 🎓 Graduated with a **Bachelor's in Computer Science** from **Algoma University**
   
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Quantum and Cyber Attacks**
 
-- 💬 Ask me about **Javascript , MERN**
+- 💬 Ask me about **Web, Blockchain, AI, Security**
 
 - 📫 How to reach me **shahroz.abbas2018@gmail.com**
 
